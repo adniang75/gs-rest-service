@@ -1,4 +1,4 @@
-package com.example.gsrestservice;
+package com.alassaneniang.gsrestservice;
 
 public class Greeting {
 
